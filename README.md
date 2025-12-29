@@ -16,3 +16,6 @@
 > This project focuses on stability, transparency, and safe data handling rather than automated decision-making.
 
 ---
+
+### Release
+https://github.com/shizumi-code/shizumi-code/releases
