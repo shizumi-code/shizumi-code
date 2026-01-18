@@ -16,6 +16,19 @@
 > This project focuses on stability, transparency, and safe data handling rather than automated decision-making.
 
 ---
+## Tools
+
+### IllustriousTagTool
+
+An offline Windows tool for generating tag classification candidates using a local LLM.
+
+- Version: Free MVP v0.1
+- Platform: Windows
+- Execution: Fully offline
+- Distribution: See GitHub Releases
+
+📄 Documentation:
+- tools/IllustriousTagTool/README.md
 
 ### Release
 https://github.com/shizumi-code/shizumi-code/releases
